@@ -8,7 +8,6 @@ import java.io.Serializable;
  * Address.
  * </p>
  * 
- * @author Anand Swarup V
  */
 public class Address implements Serializable {
 

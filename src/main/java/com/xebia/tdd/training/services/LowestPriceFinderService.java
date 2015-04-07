@@ -26,7 +26,6 @@ import com.xebia.tdd.training.utils.Terminal;
  * {@link Hotel}(s)
  * </p>
  * 
- * @author Anand Swarup V
  */
 @Component
 public class LowestPriceFinderService {

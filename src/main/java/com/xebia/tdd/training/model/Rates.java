@@ -9,7 +9,6 @@ import java.math.BigDecimal;
  * Weekend Rates for the {@link Hotel}.
  * </p>
  * 
- * @author Anand Swarup V
  */
 public class Rates implements Serializable {
 

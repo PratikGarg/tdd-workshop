@@ -9,7 +9,6 @@ import java.math.BigDecimal;
  * containing {@link Hotel} and total booking price for that hotel.
  * </p>
  * 
- * @author Anand Swarup V
  */
 public class SearchResult implements Comparable<SearchResult>, Serializable {
     

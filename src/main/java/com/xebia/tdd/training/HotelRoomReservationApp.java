@@ -16,7 +16,6 @@ import com.xebia.tdd.training.services.LowestPriceFinderService;
  * Program to help an online customer find the cheapest hotel
  * </p>
  * 
- * @author Anand Swarup V
  */
 @Component
 public class HotelRoomReservationApp {

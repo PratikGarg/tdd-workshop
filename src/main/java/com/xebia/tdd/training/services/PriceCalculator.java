@@ -16,7 +16,6 @@ import com.xebia.tdd.training.model.SearchResult;
  * and Customer Type
  * </p>
  * 
- * @author Anand Swarup V
  */
 public class PriceCalculator implements Callable<SearchResult>{
     

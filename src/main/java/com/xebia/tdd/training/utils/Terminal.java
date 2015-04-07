@@ -5,7 +5,6 @@ import java.util.logging.Logger;
 /**
  * Terminal can be used for logging and send output to any console available
  * 
- * @author Anand Swarup V
  *
  */
 public class Terminal {

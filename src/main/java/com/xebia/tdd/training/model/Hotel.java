@@ -7,7 +7,6 @@ import java.io.Serializable;
  * <strong>Hotel</strong> is the model/entity class that represents a hotel.
  * </p>
  * 
- * @author Anand Swarup V
  */
 public class Hotel implements Serializable {
 
